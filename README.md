@@ -14,7 +14,7 @@
 - Use JavaScript classes
 - Use modules (import / export)
 
-### What I learned / practice 
+### What I learned / practiced
 
 - JavaScript classes and constructor method
 - setTimeout method
