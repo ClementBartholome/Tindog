@@ -1,8 +1,5 @@
 body {
     font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif; 
-    max-width: 550px;
-    margin: 0 auto;
-    padding: 10px;
 }
 
 
@@ -10,10 +7,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 15px 0;
+    margin: 15px auto;
+    max-width: 400px;
 }
 
 .card, .liked-dog {
+    max-width: 400px;
     width: 100%;
     margin: 0 auto;
 }
